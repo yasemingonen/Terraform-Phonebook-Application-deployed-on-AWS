@@ -18,6 +18,6 @@ provider "aws" {
 
 
 provider "github" {
-  token = "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"
+  token = "XXXXXXXXXXXXXXXXXXXXXXXXXX"
 #this is your secret acsess github token
 }
